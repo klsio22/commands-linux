@@ -1,0 +1,8 @@
+Comandos mais usados
+
+sudo sync && sudo sysctl vm.drop_caches=3 (limpar memoria ram)
+
+watch -n 1 free -m (ver espaço da memoria)
+
+xrandr --output HDMI-A-0 --brightness 0.8 (controlar brilho do monitor)
+
