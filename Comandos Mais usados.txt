@@ -6,3 +6,4 @@ watch -n 1 free -m (ver espaço da memoria)
 
 xrandr --output HDMI-A-0 --brightness 0.8 (controlar brilho do monitor)
 
+xrandr --output LVDS --brightness 0.5 (Para notebook VGN-FW)
